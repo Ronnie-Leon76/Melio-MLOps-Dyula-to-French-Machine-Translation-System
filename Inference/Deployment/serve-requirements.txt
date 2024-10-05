@@ -1,0 +1,3 @@
+# torch==2.2.1+cpu
+joeynmt
+kserve==0.11.2
